@@ -1,0 +1,10 @@
+= WpModels
+This is a collection of activerecord models that can be used to interact with a Wordpress database.
+
+== Installing
+
+  gem install wp_models
+  
+== Notes
+
+Just started it, very alpha.
